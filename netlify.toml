@@ -1,5 +1,5 @@
 [build]
-publish = "https://spectacular-mooncake-364acf.netlify.app/"
+publish = "."
 functions = "netlify/functions"
 
 [functions]
