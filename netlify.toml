@@ -1,0 +1,7 @@
+[build]
+publish = "https://spectacular-mooncake-364acf.netlify.app/"
+functions = "netlify/functions"
+
+[functions]
+node_bundler = "esbuild"
+included_files = ["*.json"]
